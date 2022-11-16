@@ -21,4 +21,4 @@ Next, run the following command:
 
  
  ## Example:
-![Imagen de consola](image.jpg)
+![Imagen de consola](https://github.com/INTEC-1098851/ValidateSSN/blob/master/docs/promp-examplepng.png)
