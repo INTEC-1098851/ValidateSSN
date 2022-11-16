@@ -8,8 +8,8 @@
 **The third part should have 4 digits and it should be from 0001 to 9999.**
 
 [Click here to see user manual](https://www.example.com)
+
 [Click here to see app docs](https://www.example.com)
 
 ---
-## Developed By
-### Freddy Soto
+## Developed By Freddy Soto
