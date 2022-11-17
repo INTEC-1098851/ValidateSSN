@@ -13,6 +13,9 @@
 **E2E - 03**:
 > Precondition: Run the program and when the program ask you to enter the number, write 000-00-0000.
 >
-> The program should print "The first part of the SSN should not be 000, 666 or between 900 and 999 \n  The second part should be from 01 to 99. \n  The third part should have 4 digits and it should be from 0001 to 9999".
+> The program should print 
+`The first part of the SSN should not be 000, 666 or between 900 and 999`
+`The second part should be from 01 to 99.` 
+`The third part should have 4 digits and it should be from 0001 to 9999".`
 
 
