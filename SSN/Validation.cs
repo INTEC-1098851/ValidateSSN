@@ -117,13 +117,20 @@ namespace SSN
                     break;
                 key = Console.ReadKey(true);
             }
+            
             Console.WriteLine();
             return intValue;
         }
         public void ValidateSSN(string ssn)
         {
+
             bool isValid = true;
-            if (!ValidateFirstPart(ssn.Substring(0, 3)))
+                        if(ssn.Length<11)
+            {
+                isValid= false;
+                Console.WriteLine("\n The Social Security Number (SSN) is invalid.");
+            }else{
+if (!ValidateFirstPart(ssn.Substring(0, 3)))
             {
                 isValid= false;
                 Console.WriteLine("\n The first part of the SSN should not be 000, 666 or between 900 and 999");
@@ -151,6 +158,8 @@ namespace SSN
             }
             if (isValid)
                 Console.WriteLine("\n The Social Security Number (SSN) is valid.");
+          
+            }  
         }
 
         private bool ValidateFirstPart(string value)
