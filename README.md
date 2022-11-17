@@ -7,9 +7,9 @@
 **The second part should have 2 digits and it should be from 01 to 99.**
 **The third part should have 4 digits and it should be from 0001 to 9999.**
 
-[Click here to see user manual](https://www.example.com)
+[Click here to see user manual](https://github.com/INTEC-1098851/ValidateSSN/blob/master/docs/User%20Manual.md)
 
-[Click here to see app docs](https://www.example.com)
+[Click here to see app docs](https://github.com/INTEC-1098851/ValidateSSN/tree/master/docs)
 
 ---
 ## Developed By Freddy Soto
